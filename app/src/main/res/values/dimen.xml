@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_8">8dip</dimen>
+    <dimen name="space_16">16dip</dimen>
+    <dimen name="space_24">24dp</dimen>
+    <dimen name="round_4">4dip</dimen>
+    <dimen name="font_20">20sp</dimen>
+    <dimen name="height_card">200dip</dimen>
+    <dimen name="height_top">300dip</dimen>
+
+</resources>

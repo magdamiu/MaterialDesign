@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="fab_and_snackbar">FAB and Snackbar</string>
+    <string name="show_snackbar">Show Snackbar</string>
+    <string name="message_snackbar1">This is a Snackbar</string>
+    <string name="close">CLOSE</string>
+    <string name="first">1st Card</string>
+    <string name="second">2nd Card</string>
+    <string name="third">3rd Card</string>
+    <string name="forth">4th Card</string>
+    <string name="long_text">Material design is a comprehensive guide for visual, motion, and interaction design across platforms and devices. To use material design in your Android apps, follow the guidelines described in the material design specification and use the new components and functionality available in Android 5.0 (API level 21).
+
+You can also use the Design Support library to integrate additional material design components and patterns into your applications to complement the components available in the Android framework. The Design Support library is compatible with Android 2.3 (API level 9) and above.</string>
+    <string name="collapse_string"></string>
+    <string name="collapse_toolbar">Collapse Toolbar</string>
+
+
+</resources>
