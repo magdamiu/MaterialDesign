@@ -1,5 +1,5 @@
 # Material Design
-Simple example about how to use Material Design elements and concepts on Android development.
+<img src="https://github.com/magdamiu/MaterialDesign/blob/master/material%20design.png" />
 
 This repository contains examples with:
 - CoordinatorLayout
@@ -11,4 +11,3 @@ This repository contains examples with:
 - CollapsingToolbarLayout
 - Selecting Colors with the Palette API
 
-<img src="https://github.com/magdamiu/MaterialDesign/blob/master/MaterialDesign.png" width="320" height="569" />
